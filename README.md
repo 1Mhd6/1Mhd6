@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @1Mhd6
 - 👀 I’m interested in Cber Scurity
 - 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 1Mhd6/1Mhd6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
